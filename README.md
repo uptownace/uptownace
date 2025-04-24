@@ -26,4 +26,4 @@ I'm here using GitHub to **expand my knowledge in web development and programmin
 I'm always looking to **connect, collaborate, and innovate**, so feel free to reach out or check out what I'm working on!
 
 📫 **Connect with me:**  
-[Website](https://www.stumclaughlin.com) | [LinkedIn](https://www.linkedin.com/in/stumclaughlin)
+[LinkedIn](https://www.linkedin.com/in/stumclaughlin)
