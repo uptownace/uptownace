@@ -4,17 +4,14 @@ I work across brand, go-to-market, and operations — connecting direction, infr
 
 Simply, I turn strategy into systems that scale.
 
----
 
 ## About
 
-I’m a strategic growth leader with nearly two decades of experience spanning creative leadership, digital transformation, RevOps and performance marketing.
+I lead work end-to-end from early definition through execution, optimization, and expansion - aligning stakeholders, building systems and ensuring the work actually performs. My experience spans creative operations, digital transformation, RevOps and performance marketing.
 
-I lead work end-to-end from early definition through execution, optimization, and expansion - aligning stakeholders, building systems and ensuring the work actually performs.
 
 I’m not approaching this as a generalist, but accountable for how the pieces connect and operate as a system. Most of my work sits in complex and regulated environments, where structure, documentation, and governance matter just as much as creativity.
 
----
 
 ## Core Areas
 
@@ -33,7 +30,6 @@ I’m not approaching this as a generalist, but accountable for how the pieces c
 - **Data Engineering & Analytics**  
   Data pipelines, reporting systems, and decision frameworks that turn activity into insight.
 
----
 
 ## What I’m Building & Exploring
 
@@ -60,8 +56,7 @@ Current focus:
   DNS, hosting environments, version control, and the underlying layers most people skip.
 
 
----
-
 ## Connect
 
+[Website](https://www.stumclaughlin.com)  
 [LinkedIn](https://www.linkedin.com/in/stumclaughlin)
