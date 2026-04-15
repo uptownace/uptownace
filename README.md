@@ -1,29 +1,67 @@
-# 👋 Hey, I'm Stu.
+# 👋 I’m Stu.
 
-## About Me
+I work across brand, go-to-market, and operations — connecting direction, infrastructure, and execution into something teams can actually run. 
 
-I'm a creative strategist, brand marketing leader and business innovator with over 15 years of experience driving **transformative brand growth**. I currently operate as the **Vice President of Brand Strategy at TheRiot Agency**. I blend creativity, technology and data to develop solutions that fuel meaningful and sustainable business growth. My career spans **creative execution, digital transformation and strategic development**, allowing me to bridge the gap between brand storytelling and measurable impact. I specialize in **developing strategy, scaling operations, launching initiatives and leveraging data-driven insights** to create **high-performing growth ecosystems**.
+Simply, I turn strategy into systems that scale.
 
-## Skills & Expertise
+---
 
-🚀 **Brand Strategy & Development** – Aligning business goals with storytelling and data-driven insights.  
-🎨 **Creative Leadership** – Managing multidisciplinary teams to deliver impactful content and campaigns.  
-📊 **Digital Marketing & Automation** – Implementing cutting-edge tools to drive engagement and efficiency.  
-📈 **Data-Driven Decision Making** – Leveraging analytics to optimize marketing performance.  
-🤖 **AI & Technology Integration** – Streamlining workflows and enhancing brand experiences with AI-powered solutions.  
-📢 **Business & Initiative Development** – Building scalable frameworks, launching new ventures and positioning brands for long-term success.  
+## About
 
-## Learning & Exploring on GitHub
+I’m a strategic growth leader with nearly two decades of experience spanning creative leadership, digital transformation, RevOps and performance marketing.
 
-I'm here using GitHub to **expand my knowledge in web development and programming**, diving into front-end technologies, automation and AI-driven tools that complement my expertise. My focus areas include:
+I lead work end-to-end from early definition through execution, optimization, and expansion - aligning stakeholders, building systems and ensuring the work actually performs.
 
-- **HTML & CSS** – Strengthening my front-end development foundation.  
-- **JavaScript & React** – Exploring interactive web applications.
-- **Python & Data Visualization** – Enhancing marketing insights with data-driven tools.
-- **Automation & AI** – Experimenting with AI-powered workflow automation.
-- **Git & Version Control** – Streamlining collaboration and development processes.
+I’m not approaching this as a generalist, but accountable for how the pieces connect and operate as a system. Most of my work sits in complex and regulated environments, where structure, documentation, and governance matter just as much as creativity.
 
-I'm always looking to **connect, collaborate, and innovate**, so feel free to reach out or check out what I'm working on!
+---
 
-📫 **Connect with me:**  
+## Core Areas
+
+- **Brand Strategy & Development**  
+  Positioning, messaging, and go-to-market direction tied to real business outcomes.
+
+- **Creative Operations & Leadership**  
+  Building systems, workflows, and teams that scale creative output without losing quality.
+
+- **Digital Marketing & Automation**  
+  Paid, lifecycle, and channel strategy connected to CRM, attribution, and performance.
+
+- **AI & Technology Integration**  
+  LLM workflows, RAG systems, automation, and practical AI implementation across teams and processes.
+
+- **Data Engineering & Analytics**  
+  Data pipelines, reporting systems, and decision frameworks that turn activity into insight.
+
+---
+
+## What I’m Building & Exploring
+
+I use this as a working environment — not just for learning, but for building and refining systems I actually use. My experience in web and CMS runs deep and over the years, actively extending that into data, automation, and AI.
+
+Current focus:
+
+- **CLI-driven workflows**  
+  Working with Salesforce, HubSpot, Gemini, and other tooling to analyze data and extend platform capabilities.
+
+- **Data & analytics systems**  
+  Python, data visualization, database design, and querying structured data for reporting and LLM use.
+
+- **AI / LLM applications**  
+  Building assistants, RAG workflows, and agent-based tools for both personal and professional use.
+
+- **CRM optimization**  
+  Structuring and improving HubSpot, Salesforce, and connected systems for better data flow and decision-making.
+
+- **Web & application development**  
+  Progressive web apps, lightweight tools, static sites, and performance-focused builds.
+
+- **Infrastructure & fundamentals**  
+  DNS, hosting environments, version control, and the underlying layers most people skip.
+
+
+---
+
+## Connect
+
 [LinkedIn](https://www.linkedin.com/in/stumclaughlin)
