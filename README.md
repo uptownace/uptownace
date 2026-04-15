@@ -1,16 +1,10 @@
 # 👋 I’m Stu.
 
-I work across brand, go-to-market, and operations — connecting direction, infrastructure, and execution into something teams can actually run. 
+My experience spans creative operations, digital transformation, RevOps and performance marketing.
 
-Simply, I turn strategy into systems that scale.
+I work across brand, go-to-market, and operations and lead end-to-end from early definition through execution, optimization, and expansion - aligning stakeholders, building systems and ensuring the work actually performs. Simply, I turn strategy into systems that scale.
 
-
-## About
-
-I lead work end-to-end from early definition through execution, optimization, and expansion - aligning stakeholders, building systems and ensuring the work actually performs. My experience spans creative operations, digital transformation, RevOps and performance marketing.
-
-
-I’m not approaching this as a generalist, but accountable for how the pieces connect and operate as a system. Most of my work sits in complex and regulated environments, where structure, documentation, and governance matter just as much as creativity.
+I don't operate as a generalist, but the one who is accountable for how the pieces connect and operate as a system. Most of my work sits in complex and regulated environments, where structure, documentation, and governance matter just as much as creativity.
 
 
 ## Core Areas
