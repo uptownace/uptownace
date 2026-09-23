@@ -4,8 +4,6 @@ My experience spans creative operations, digital transformation, RevOps and perf
 
 I work across brand, go-to-market, and operations and lead end-to-end from early definition through execution, optimization, and expansion - aligning stakeholders, building systems and ensuring the work actually performs. Simply, I turn strategy into systems that scale.
 
-I don't operate as a generalist, but the one who is accountable for how the pieces connect and operate as a system. Most of my work sits in complex and regulated environments, where structure, documentation, and governance matter just as much as creativity.
-
 
 ## Core Areas
 
@@ -27,9 +25,6 @@ I don't operate as a generalist, but the one who is accountable for how the piec
 
 ## What I’m Building & Exploring
 
-I use this as a working environment — not just for learning, but for building and refining systems I actually use. My experience in web and CMS runs deep and over the years, actively extending that into data, automation, and AI.
-
-Current focus:
 
 - **CLI-driven workflows**  
   Working with Salesforce, HubSpot, Gemini, and other tooling to analyze data and extend platform capabilities.
